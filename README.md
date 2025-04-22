@@ -1,4 +1,4 @@
-Hi I am Robin!
+Hi I am Krisha!
 
 Plan for making code more readable and scalable
 
